@@ -1,0 +1,20 @@
+{
+    "background": {
+        "scripts": ["incognito_search.js"]
+    },
+    "manifest_version": 2,
+    "name": "Incognito Search",
+    "version": "1.0",
+    "description": "Add an option for searching in Incognito mode in the right click",
+    "icons":{
+        "16": "incog_16.png",
+        "48": "incog.png",
+        "128": "incog_128.png"
+    },
+    "author": "Juliano Garcia",
+    "minimum_chrome_version": "21",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ]
+}

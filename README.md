@@ -1,6 +1,7 @@
 # Incognito Search
 
 Simple Chrome Extension that searches in an Incognito window for the selected text.
+
 :biohazard:	:radioactive: Now FBI can't find you! :D	:radioactive:	:biohazard:	
 
 ## Installation
@@ -13,5 +14,5 @@ Go to the ```extensions``` page (e.g. ```chrome://extensions```,  ```vivaldi://e
 2. Right Click and select "Search Incognito for <text>"
 
 This extension uses Google Search by default.
-![example](https://github.com/robotenique/incognitoSearch-chromium/example.gif)
+![example](https://github.com/robotenique/incognitoSearch-chromium/blob/master/example.gif)
 

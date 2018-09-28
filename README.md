@@ -2,7 +2,7 @@
 
 Simple Chrome Extension that searches in an Incognito window for the selected text.
 
-:biohazard:	:radioactive: Now FBI can't find you! :D	:radioactive:	:biohazard:	
+:biohazard:	:radioactive: Now FBI can't find you	:radioactive:	:biohazard:	
 
 ## Installation
 

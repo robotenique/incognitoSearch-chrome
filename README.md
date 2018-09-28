@@ -10,7 +10,7 @@ Go to the ```extensions``` page (e.g. ```chrome://extensions```,  ```vivaldi://e
 
 ## Usage
 
-1. Select the text (optional)
+1. Select the text
 2. Right Click and select "Search Incognito for <text>"
 
 This extension uses Google Search by default.

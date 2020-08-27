@@ -1,6 +1,6 @@
 # Incognito Search
 
-Simple Chrome Extension that searches in an Incognito window for the selected text.
+Simple Chrome Extension that searches in an Incognito window for the selected text. This was an experiment to learn more about building chrome extensions!
 
 :biohazard:	:radioactive: Now FBI can't find you	:radioactive:	:biohazard:	
 
@@ -15,4 +15,3 @@ Go to the ```extensions``` page (e.g. ```chrome://extensions```,  ```vivaldi://e
 
 This extension uses Google Search by default.
 ![example](https://github.com/robotenique/incognitoSearch-chromium/blob/master/example.gif)
-
